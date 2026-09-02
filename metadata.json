@@ -1,0 +1,6 @@
+{
+  "name": "sagai",
+  "description": "A feature-rich social media platform inspired by Facebook with real-time chat, groups, feeds, stories, Google Sheets Apps Script database integration, and an administrative control panel.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
